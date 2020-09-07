@@ -1,11 +1,16 @@
 import React from "react"
 import { graphql } from "gatsby"
 import PostTemplate from "./post-template"
+import Badge from "react-bootstrap/Badge"
 
-const SubTitle = ({ ttr, date, author }) => (
-  <h5 className="text-muted mb-5">
-    Tiempo de lectura: {ttr} <small>min</small> | {date} | {author}
-  </h5>
+const SubTitle = ({ tags }) => (
+  <div className="mb-5">
+    {tags.map(tag => (
+      <Badge key={tag} pill variant="dark" className="px-3 mr-1">
+        <h5 className="text-white my-0">{tag}</h5>
+      </Badge>
+    ))}
+  </div>
 )
 
 export default ({ data }) => {
@@ -13,13 +18,7 @@ export default ({ data }) => {
   return (
     <PostTemplate
       title={post.frontmatter.title}
-      subTitle={
-        <SubTitle
-          ttr={post.timeToRead}
-          date={post.frontmatter.date}
-          author={post.frontmatter.author}
-        />
-      }
+      subTitle={<SubTitle tags={post.frontmatter.tags} />}
       excerpt={post.excerpt}
       html={post.html}
     />
@@ -32,11 +31,9 @@ export const query = graphql`
       html
       frontmatter {
         title
-        author
-        date(formatString: "DD-MM-YYYY")
+        tags
       }
       excerpt
-      timeToRead
     }
   }
 `
