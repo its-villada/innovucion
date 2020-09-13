@@ -8,10 +8,10 @@ export default () => {
   const { dark, toggleDark, toString } = useContext(ThemeContext)
   return (
     <Navbar variant={toString()} fixed="top" collapseOnSelect expand="md">
-      <Navbar.Brand className="pl-5 ml-5" as={Link} to="/">
+      <Navbar.Brand className="pl-1 ml-1" as={Link} to="/">
         <Image
-          width="60"
-          height="60"
+          width="50"
+          height="50"
           fluid
           src={dark ? `../../icons/innovucion-logo-dark.png` : `../../icons/innovucion-logo.png`}
           alt={dark ? "Darth Vader" : "R2-D2"}

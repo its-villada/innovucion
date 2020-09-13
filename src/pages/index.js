@@ -14,8 +14,8 @@ export default ({ data }) => {
       <SEO title="Home" />
       <Container className="text-center pt-1" fluid>
         <Image
-          width="300"
-          height="300"
+          width="220"
+          height="220"
           fluid
           src={dark ? `../../icons/darth-vader.png` : `../../icons/r2-d2.png`}
           alt={dark ? "Darth Vader" : "R2-D2"}
@@ -23,14 +23,14 @@ export default ({ data }) => {
         <Container className="py-0 my-0">
           <h1
             style={{
-              fontSize: "5rem",
+              fontSize: "3rem",
               color: "black",
             }}
           >
             <span className="first-name">{firstName}</span>&nbsp;
             <span className="last-name">{lastName}</span>
           </h1>
-          <h4 className="mt-2 px-5">
+          <h4 className="mt-2 px-1">
             {description}
           </h4>
         </Container>
