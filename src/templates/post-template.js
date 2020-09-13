@@ -7,10 +7,10 @@ import SEO from "../utils/seo"
 export default ({ title, excerpt, html, subTitle }) => (
   <PageLayout>
     <SEO title={title} description={excerpt} />
-    <Container className="text-center" fluid>
+    <Container className="text-center px-1" fluid>
       <PageTitle title={title} />
       {subTitle}
-      <Container className="text-left mx-2">
+      <Container className="text-left">
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </Container>
     </Container>
