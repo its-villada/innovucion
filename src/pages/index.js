@@ -1,13 +1,15 @@
 import React, { useContext } from "react"
 import { graphql } from "gatsby"
 import ThemeContext from "../utils/theme"
-import { PageLayout } from "../components"
+import { PageLayout, BlogList } from "../components"
 import { SEO } from "../utils"
 import { Container, Image } from "react-bootstrap"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 export default ({ data }) => {
   const { unemployed, firstName, lastName, description } = data.site.siteMetadata
+  const allFeaturedImages = data.allFile.edges || []
+  const allPosts = data.allMarkdownRemark.edges || []
   const { dark } = useContext(ThemeContext)
   return (
     <PageLayout>
@@ -71,6 +73,9 @@ export default ({ data }) => {
           </a>
         </div>
       </Container>
+      <BlogList
+        allFeaturedImages={allFeaturedImages}
+        allPosts={allPosts} />
     </PageLayout>
   )
 }
@@ -83,6 +88,46 @@ export const query = graphql`
         firstName
         lastName
         description
+      }
+    }
+    allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/blog/" } }
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
+      totalCount
+      edges {
+        node {
+          id
+          frontmatter {
+            title
+            description
+            tags
+            author
+            date(formatString: "DD-MM-YYYY")
+          }
+          fields {
+            slug
+          }
+          excerpt
+        }
+      }
+    }
+    allFile(
+      filter: {
+        extension: { eq: "jpg" }
+        relativePath: { regex: "/feature/" }
+        relativeDirectory: { regex: "/content/blog/" }
+      }
+    ) {
+      edges {
+        node {
+          childImageSharp {
+            fluid(maxWidth: 400) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+          relativePath
+        }
       }
     }
   }

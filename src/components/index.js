@@ -6,3 +6,5 @@ export { default as PageLayout } from "./PageLayout"
 export { default as PageTitle } from "./PageTitle"
 export { default as ProjectLink } from "./ProjectLink"
 export { default as WorkHistory } from "./WorkHistory"
+export { default as BlogList } from "./BlogList"
+

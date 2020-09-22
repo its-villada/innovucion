@@ -1,6 +1,7 @@
 import React, { useState } from "react"
 import { graphql } from "gatsby"
-import { PageLayout, PageTitle, BlogLink } from "../components"
+import { PageLayout, PageTitle, BlogList } from "../components"
+
 import { SEO, Utils } from "../utils"
 import { Container, Form, FormControl } from "react-bootstrap"
 
@@ -55,22 +56,9 @@ export default ({ data }) => {
           />
         </Form>
       </Container>
-      <Container
-        fluid
-        className="p-3 w-auto text-left d-flex flex-wrap justify-content-center"
-      >
-        {filteredPosts.map(({ node }) => (
-          <div key={node.id} className="p-3">
-            <BlogLink
-              to={node.fields.slug}
-              featuredImage={featuredImageMap[node.fields.slug]}
-              title={node.frontmatter.title}
-              subtitle={node.frontmatter.date}
-              excerpt={node.excerpt}
-            />
-          </div>
-        ))}
-      </Container>
+      <BlogList
+        allFeaturedImages={allFeaturedImages}
+        allPosts={filteredPosts} />
     </PageLayout>
   )
 }
