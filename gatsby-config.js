@@ -12,7 +12,12 @@ module.exports = {
     firstName: `Innovucion`,
     lastName: `!`,
     description: `Porque necesitamos una revolución y una innovación masiva para lograr que desde el ámbito de la educación nuestro futuro sea positivo.`,
-    occupation: `docente secundario en el Instituto Técnico Salesiano Villada`,
+    occupation: `Soy Federico Ferraro, Ingeniero en Electrónica recibido en la UTN-FRC. Ex alumno y docente del Instituto Técnico Salesiano Villada. Termine en 1995 e ingresé como profe a principio de 1998. Es decir, desde el año 1990 solo estuve 2 años fuera del colegio. En primera instancia esto podría sonar a un alago, pero en mi caso tiene un doble sabor. Dulce por formar parte durante tanto tiempo de una institución educativa. Amargo porque de algún modo me hace cómplice del estado del sistema educativo. 
+    En el año 2015 un grupo de alumnos de 5to año me puso en jaque. Estuve a punto de darme por vencido, solo faltaba que dijeran Mate para que el partido de ajedrez terminara. Pero hubo algo que me mostró que había una jugada posible. Una jugada que siempre estuvo disponible pero no había alcanzado a entender. En ese momento los espejos se alinearon y logre comprender lo que ocurría. Tan simple como animarme a cambiar.
+    
+    A partir de allí comenzó el periodo con mas energía en mi vida docente, donde también me sumé como voluntario al programa Clubes TED Ed coordinado por TEDxRiodelaPlata. Hoy soy Coordinador del Clubes en la Provincia de Córdoba con TEDxCórdoba.
+    
+    Sigo en el mismo lugar, pero siempre buscando cambiar, generar cosas nuevas y tratando de contagiar. Si se suman mas profes, bárbaro. Si no, seguramente ya les llegará su momento de entender esa jugada mágica que me permitió mantener la partida viva hasta hoy.`,
     keywords: [`Federico`, `Ferraro`, `Blog`, `Educación`, `Secundario`],
     siteUrl:
       process.env.URL || process.env.DEPLOY_URL || `http://localhost:8000`,
