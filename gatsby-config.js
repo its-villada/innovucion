@@ -11,13 +11,8 @@ module.exports = {
     author: `Federico Ferraro`,
     firstName: `Innovucion`,
     lastName: `!`,
-    description: `Porque necesitamos una revolución y una innovación masiva para lograr que desde el ámbito de la educación nuestro futuro sea positivo.`,
-    occupation: `Soy Federico Ferraro, Ingeniero en Electrónica recibido en la UTN-FRC. Ex alumno y docente del Instituto Técnico Salesiano Villada. Termine en 1995 e ingresé como profe a principio de 1998. Es decir, desde el año 1990 solo estuve 2 años fuera del colegio. En primera instancia esto podría sonar a un alago, pero en mi caso tiene un doble sabor. Dulce por formar parte durante tanto tiempo de una institución educativa. Amargo porque de algún modo me hace cómplice del estado del sistema educativo. 
-    En el año 2015 un grupo de alumnos de 5to año me puso en jaque. Estuve a punto de darme por vencido, solo faltaba que dijeran Mate para que el partido de ajedrez terminara. Pero hubo algo que me mostró que había una jugada posible. Una jugada que siempre estuvo disponible pero no había alcanzado a entender. En ese momento los espejos se alinearon y logre comprender lo que ocurría. Tan simple como animarme a cambiar.
-    
-    A partir de allí comenzó el periodo con mas energía en mi vida docente, donde también me sumé como voluntario al programa Clubes TED Ed coordinado por TEDxRiodelaPlata. Hoy soy Coordinador del Clubes en la Provincia de Córdoba con TEDxCórdoba.
-    
-    Sigo en el mismo lugar, pero siempre buscando cambiar, generar cosas nuevas y tratando de contagiar. Si se suman mas profes, bárbaro. Si no, seguramente ya les llegará su momento de entender esa jugada mágica que me permitió mantener la partida viva hasta hoy.`,
+    description: `Porque necesitamos una revolución y una innovación masiva para lograr que desde
+     el ámbito de la educación nuestro futuro sea positivo.`,
     keywords: [`Federico`, `Ferraro`, `Blog`, `Educación`, `Secundario`],
     siteUrl:
       process.env.URL || process.env.DEPLOY_URL || `http://localhost:8000`,
@@ -34,14 +29,29 @@ module.exports = {
         link: `https://www.goodreads.com/book/show/23692271-sapiens`,
       },
       {
-        title: `Behave: The Biology of Humans at our Best and Worst`,
-        author: `Robert Sapolsky`,
-        link: `https://www.goodreads.com/book/show/31170723-behave`,
+        title: `El elemento: Ante un futuro cada vez más incierto`,
+        author: `Ken Robinson`,
+        link: `https://www.goodreads.com/book/show/27276428-the-gene`,
       },
       {
-        title: `The Gene: An Intimate History`,
-        author: `Siddhartha Mukeherjee`,
+        title: `Escuelas creativas: La revolución que está transformando la educación`,
+        author: `Ken Robinson`,
         link: `https://www.goodreads.com/book/show/27276428-the-gene`,
+      },
+      {
+        title: `Mal de Escuela`,
+        author: `Daniel Pennac`,
+        link: `https://www.goodreads.com/book/show/27276428-the-gene`,
+      },
+      {
+        title: `El colapso de la Educación`,
+        author: `Mariano Narodowski`,
+        link: `https://www.goodreads.com/book/show/27276428-the-gene`,
+      },
+      {
+        title: `Homo Deus: Breve historia del mañana`,
+        author: `Yuval Noah Harari`,
+        link: `https://play.google.com/store/books/details/Homo_Deus_Breve_historia_del_ma%C3%B1ana?id=MFLKDAAAQBAJ`,
       },
     ],
     showsList: [
