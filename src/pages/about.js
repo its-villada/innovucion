@@ -7,7 +7,7 @@ import { ThemeContext, SEO } from "../utils"
 export default ({ data }) => {
   const MediaLink = ({ title, author, link }) => (
     <li key={title} style={{ color: "gray" }}>
-      <a rel="noopener noreferrer" href={link}>
+      <a rel="noopener noreferrer" target="_blank" href={link}>
         {title}
       </a>
       &nbsp;-<i>{author}</i>
@@ -37,7 +37,7 @@ export default ({ data }) => {
           src={`../../icons/fede-${toString()}.jpg`}
           alt={author}
         />
-        <article className="w-75 m-auto pt-2 text-justify">
+        <article className="m-auto pt-2 text-justify">
           <p className="text-center">
             {designations.map((attr, i) => (
               <span key={attr}>
@@ -65,24 +65,26 @@ export default ({ data }) => {
             voluntario al programa Clubes TED Ed coordinado por TEDxRiodelaPlata. Hoy soy Coordinador del Clubes
             en la Provincia de Córdoba con TEDxCórdoba.</p>
           <p>
-          <p>
-            Sigo en el mismo lugar, pero siempre buscando cambiar, generar cosas nuevas y tratando de 
-            contagiar. Si se suman mas profes, bárbaro. Si no, seguramente ya les llegará su momento de 
-            entender esa jugada mágica que me permitió mantener la partida viva hasta hoy.
+            <p>
+              Sigo en el mismo lugar, pero siempre buscando cambiar, generar cosas nuevas y tratando de
+              contagiar. Si se suman mas profes, bárbaro. Si no, seguramente ya les llegará su momento de
+              entender esa jugada mágica que me permitió mantener la partida viva hasta hoy.
           </p>
             Acá encontrás el <Link to="/blog">blog</Link> para ver de qué se trata todo esto.
           </p>
         </article>
-        <article className="w-75 m-auto">
+        <article className="m-auto">
           <hr />
-          <h5 className="watch-list-title pt-4">
-            Estas son las lecturas que recomiendo:
+          <div className="text-left">
+            <h5 className="watch-list-title pt-4">
+              Estas son las lecturas que recomiendo:
           </h5>
-          <ul style={{ fontSize: "0.9rem", listStyle: "none" }}>{bookLinks}</ul>
-          <h5 className="watch-list-title pt-4">
-            Estas son videos que recomiendo:
+            <ul style={{ fontSize: "0.9rem", listStyle: "none" }}>{bookLinks}</ul>
+            <h5 className="watch-list-title pt-4">
+              Estas son videos que recomiendo:
           </h5>
-          <ul style={{ fontSize: "0.9rem", listStyle: "none" }}>{showLinks}</ul>
+            <ul style={{ fontSize: "0.9rem", listStyle: "none" }}>{showLinks}</ul>
+          </div>
         </article>
       </Container>
     </PageLayout >

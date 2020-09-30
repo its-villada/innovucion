@@ -26,27 +26,27 @@ module.exports = {
       {
         title: `Sapiens: A Brief History of Humankind`,
         author: `Yuval Noah Harari`,
-        link: `https://www.goodreads.com/book/show/23692271-sapiens`,
+        link: `https://books.google.com.ar/books?id=qmj7AwAAQBAJ&dq=Harari&hl=es&source=gbs_navlinks_s`,
       },
       {
         title: `El elemento: Ante un futuro cada vez más incierto`,
         author: `Ken Robinson`,
-        link: `https://www.goodreads.com/book/show/27276428-the-gene`,
+        link: `https://books.google.com.ar/books?id=KZSxAAAAQBAJ&dq=Ken%20Robinson&hl=es&source=gbs_similarbooks`,
       },
       {
         title: `Escuelas creativas: La revolución que está transformando la educación`,
         author: `Ken Robinson`,
-        link: `https://www.goodreads.com/book/show/27276428-the-gene`,
+        link: `https://books.google.com.ar/books?id=GakWCgAAQBAJ&dq=Ken+Robinson&hl=es&source=gbs_navlinks_s`,
       },
       {
         title: `Mal de Escuela`,
         author: `Daniel Pennac`,
-        link: `https://www.goodreads.com/book/show/27276428-the-gene`,
+        link: `https://books.google.com.ar/books?id=8MxPEJcETnsC&dq=Mal+de+Escuela&hl=es&source=gbs_navlinks_s`,
       },
       {
         title: `El colapso de la Educación`,
         author: `Mariano Narodowski`,
-        link: `https://www.goodreads.com/book/show/27276428-the-gene`,
+        link: `https://books.google.com.ar/books/about/El_colapso_de_la_Educaci%C3%B3n.html?id=ImRZDwAAQBAJ&redir_esc=y`,
       },
       {
         title: `Homo Deus: Breve historia del mañana`,
@@ -56,19 +56,19 @@ module.exports = {
     ],
     showsList: [
       {
-        title: `Avatar: The Last Airbender`,
-        author: `Micheal DiMartino, Bryan Konietzko`,
-        link: `https://www.imdb.com/title/tt0417299/`,
+        title: `Aprender de Grandes`,
+        author: `Gerry Garbulsky`,
+        link: `https://www.youtube.com/channel/UCMoXshslRbfA7MLTu0dasUA`,
       },
       {
-        title: `Love, Death & Robots`,
-        author: `Tim Miller`,
-        link: `https://www.imdb.com/title/tt9561862/`,
+        title: `El dilema de las redes sociales`,
+        author: `Skyler Gisondo`,
+        link: `https://www.netflix.com/ar/title/81254224`,
       },
       {
-        title: `Star Wars: The Clone Wars`,
-        author: `George Lucas, Dave Filoni`,
-        link: `https://www.imdb.com/title/tt0458290/`,
+        title: `Naturaleza humana`,
+        author: `Netflix`,
+        link: `https://www.netflix.com/ar/title/81220944`,
       },
     ],
   },
