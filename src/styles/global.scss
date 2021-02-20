@@ -110,3 +110,18 @@ body {
   max-width: 480px;
   text-align: center !important;
 }
+
+.ShareButtons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+@media (max-width: 680px) {
+  .ShareButtons {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}

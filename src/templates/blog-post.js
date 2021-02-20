@@ -21,40 +21,42 @@ const SubTitle = ({ ttr, date, author }) => (
 )
 
 const ShareIcons = ({ url }) => (
-  <div>
+  <div className="mb-3">
     <h6>Comparti este artículo: </h6>
+    <div className="ShareButtons">
     <EmailShareButton
       subject="Mira este artículo!"
-      body={"¡Hola! Quiero compartir un artículo con vos: " + url}
+      body={"¡Hola! Quiero compartir un artículo con vos: "}
       url={url}
     >
-      <EmailIcon round />
+      <EmailIcon size={50} round />
     </EmailShareButton>
     <FacebookShareButton
       quote="Mira este artículo!"
       url={url}
     >
-      <FacebookIcon round />
+      <FacebookIcon size={50}  round />
     </FacebookShareButton>
     <TwitterShareButton
       title="Mira este artículo!"
       hashtags={['cboard', 'AAC']}
       url={url}
     >
-      <TwitterIcon round />
+      <TwitterIcon size={50}  round />
     </TwitterShareButton>
     <WhatsappShareButton
       title="Mira este artículo!"
       url={url}
     >
-      <WhatsappIcon round />
+      <WhatsappIcon  size={50} round />
     </WhatsappShareButton>
     <RedditShareButton
       title="Mira este artículo!"
       url={url}
     >
-      <RedditIcon round />
+      <RedditIcon  size={50} round />
     </RedditShareButton>
+    </div>
   </div>
 )
 
