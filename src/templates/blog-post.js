@@ -24,38 +24,38 @@ const ShareIcons = ({ url }) => (
   <div className="mb-3">
     <h6>Comparti este artículo: </h6>
     <div className="ShareButtons">
-    <EmailShareButton
-      subject="Mira este artículo!"
-      body={"¡Hola! Quiero compartir un artículo con vos: "}
-      url={url}
-    >
-      <EmailIcon size={50} round />
-    </EmailShareButton>
-    <FacebookShareButton
-      quote="Mira este artículo!"
-      url={url}
-    >
-      <FacebookIcon size={50}  round />
-    </FacebookShareButton>
-    <TwitterShareButton
-      title="Mira este artículo!"
-      hashtags={['innovucion', 'educación']}
-      url={url}
-    >
-      <TwitterIcon size={50}  round />
-    </TwitterShareButton>
-    <WhatsappShareButton
-      title="Mira este artículo!"
-      url={url}
-    >
-      <WhatsappIcon  size={50} round />
-    </WhatsappShareButton>
-    <RedditShareButton
-      title="Mira este artículo!"
-      url={url}
-    >
-      <RedditIcon  size={50} round />
-    </RedditShareButton>
+      <EmailShareButton
+        subject="Mira este artículo!"
+        body={"¡Hola! Quiero compartir un artículo con vos: "}
+        url={url}
+      >
+        <EmailIcon size={50} round />
+      </EmailShareButton>
+      <FacebookShareButton
+        quote="Mira este artículo!"
+        url={url}
+      >
+        <FacebookIcon size={50} round />
+      </FacebookShareButton>
+      <TwitterShareButton
+        title="Mira este artículo!"
+        hashtags={['innovucion', 'educación']}
+        url={url}
+      >
+        <TwitterIcon size={50} round />
+      </TwitterShareButton>
+      <WhatsappShareButton
+        title="Mira este artículo!"
+        url={url}
+      >
+        <WhatsappIcon size={50} round />
+      </WhatsappShareButton>
+      <RedditShareButton
+        title="Mira este artículo!"
+        url={url}
+      >
+        <RedditIcon size={50} round />
+      </RedditShareButton>
     </div>
   </div>
 )
@@ -64,23 +64,27 @@ export default ({ data }) => {
   const post = data.markdownRemark
   const url = typeof window !== 'undefined' ? window.location.href : '';
   return (
-    <PostTemplate
-      title={post.frontmatter.title}
-      subTitle={
-        <div>
-          <ShareIcons
-            url={url}
-          />
-          <SubTitle
-            ttr={post.timeToRead}
-            date={post.frontmatter.date}
-            author={post.frontmatter.author}
-          />
-        </div>
-      }
-      excerpt={post.excerpt}
-      html={post.html}
-    />
+    <React.Fragment>
+      <PostTemplate
+        title={post.frontmatter.title}
+        subTitle={
+          <div>
+            <ShareIcons
+              url={url}
+            />
+            <SubTitle
+              ttr={post.timeToRead}
+              date={post.frontmatter.date}
+              author={post.frontmatter.author}
+            />
+          </div>
+        }
+        excerpt={post.excerpt}
+        html={post.html}
+        url={url}
+        date={post.frontmatter.date}
+      />
+    </React.Fragment>
   )
 }
 
