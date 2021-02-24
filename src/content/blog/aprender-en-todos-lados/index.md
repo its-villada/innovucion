@@ -12,7 +12,7 @@ Los colores, la música, los personajes captaron la atención de los más peque�
 
 Durante estas últimas semanas de clases se mezclaron algunas cuestiones en mi cabeza. Estuve haciendo una recopilación de las actividades que realizaron mis alumnos, tanto propuestas por la escuela, como por fuera del Sistema. Mi sorpresa fue importante cuando me enteré de las cosas que los chicos hicieron por interés propio. Luego me puse a ver las tareas que aprendieron mis hijas. Aparte de las actividades de la escuela se hicieron especialistas en los programas para video llamadas. Aprendieron a editar videos con software profesionales, incursionaron en el mundo de la pintura y la música, aprendieron a cuidar a su mascota. Y ¿cómo lo hicieron?. Al igual que mis alumnos, ellas movilizadas por sus intereses, comenzaron a buscar información en internet. La energía que emanaba de su atracción por un tema las llevó a ver varias veces videos tutoriales, hasta comprender cómo hacer algo y dominar una temática o técnica particular.
 
-![Madagascar](madagascar.jpg)
+![Madagascar](src/content/blog/aprender-en-todos-lados/madagascar.jpg)
 
 Esta división entre las actividades propuestas por la escuela, por el Sistema, y la forma en que aprendieron cosas que les interesaban, trajo a mi mente otro gran éxito de la pantalla grande, Madagascar I. No toda la película, sino una escena en particular.
 
