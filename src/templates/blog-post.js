@@ -39,7 +39,7 @@ const ShareIcons = ({ url }) => (
     </FacebookShareButton>
     <TwitterShareButton
       title="Mira este artículo!"
-      hashtags={['cboard', 'AAC']}
+      hashtags={['innovucion', 'educación']}
       url={url}
     >
       <TwitterIcon size={50}  round />
