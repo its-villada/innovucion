@@ -12,8 +12,8 @@ export default ({ data }) => {
 
   return (
     <PageLayout>
-      <SEO title="Projects" />
-      <PageTitle title="Projects" />
+      <SEO title="Proyectos" />
+      <PageTitle title="Proyectos" />
       <Container className="text-left">
         <section>
           {allProjects.map(({ node }) => (
