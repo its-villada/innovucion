@@ -1,7 +1,7 @@
 ---
 title: "Manos a las cámaras!"
 tags: ["Proyecto", "Flipped classroom", "escuela invertida", "diversidad", "cambio"]
-date: "2016-04-13"
+date: "2021-04-13"
 ---
 
 El 2016 fue un año de frustraciones, revelaciones y cambios. Arranque con un grupo de alumnos que había tenido en 2015. La experiencia no había sido buena, si no pasaba algo, difícilmente llegaríamos lejos (frustración). Ahora, ¿quien debía cambiar?, ¿ellos o yo?. En una charla con los chicos, comprendí que era mi compromiso adecuarme a la realidad del curso para poder sacar el máximo potencial de ellos (revelación). A partir de ese momento pusimos manos a la obra. Todos participamos en la grabación de las clases. Claramente yo salía en cámara, pero detrás de escena había un grupo de alumnos con distintos roles. Grabación, edición, prueba de distintas opciones para grabar, etc. Lo mas importante fue que todos asumimos un compromiso. A mi cambio de actitud, le vino como respuesta un cambio en ellos (cambio).
