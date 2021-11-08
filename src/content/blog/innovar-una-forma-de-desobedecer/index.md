@@ -42,9 +42,9 @@ Hace un tiempo leí en un libro de Filosofía y en él estaban las razones de mi
 
 
 *Normalizar viene de normal y normal viene de norma; y si hay una norma, alguien la puso. Y si alguien la impuso, no hay nada normal, sino normalizado. O sea, construido como normal. Y como anormal, porque para que haya lo normal tiene que haber lo anómalo. Primera apreciación: toda normalidad supone una serie de ordenamientos que lejos está de cualquier estado natural de las cosas. De última y no es poco, normal es lo que sigue la norma. Y anormal, lo que la transgrede, la viola o bien lo que queda afuera, lo que no está contenido, incluido, aceptado, lo que no pertenece.*
->
-> *(Filosofía en 11 frases - Darío Sztajnszrajber).*
->
+
+*(Filosofía en 11 frases - Darío Sztajnszrajber).*
+
 
 
 Agrego esto, ya no en transcripción literal, que se menciona en otro lugar del libro. Si hay una norma, es decir un límite entre lo normal y lo anormal, quien lo construyó/impuso/definió tuvo sus intereses, su punto de vista, su cultura, y podríamos decir muchas cosas más, incluso sin tener que caer en valorar si sus intenciones fueron buenas o malas, para ubicar ese límite ahí. Ese alguien, o esos alguienes, son personas como todos nosotros. Entonces ¿qué es lo que nos hace asumir el límite como tal? ¿qué lo convierte en algo rígido, absoluto?, ¿se puede reescribir la norma?, ¿se puede correr el límite?, ¿existe algo que lo impida?.
@@ -66,11 +66,14 @@ Insisto en esta idea, innovar es un acto de desobediencia o de rebeldía ante lo
 El tema es que cuando innovamos, es decir cuando desobedecemos lo que está establecido, corremos el riesgo de que nos miren mal y parte de la innovación implica también correr ese riesgo. Como en esa excelente canción de Alberto Cortez, llamada Castillos en el Aire.
 
 
-> Quiso volar igual que las gaviotas
-> Libre en el aire, por el aire libre
-> Y los demás dijeron: ¡pobre idiota!
-> No sabe que volar es imposible.
-> 
+*Quiso volar igual que las gaviotas*
+
+*Libre en el aire, por el aire libre*
+
+*Y los demás dijeron: ¡pobre idiota!*
+
+*No sabe que volar es imposible.*
+
 
 Luego de esto pienso nuevamente en Marcos y su cafetera partalante. Para los normales de aquella época fue un farsante. Alguien que armó una historia, que la prensa compró y tuvo su momento de gloria. Alguien que pasó de poner en ridículo a todos los demás estudiantes que no inventábamos nada, a ser objeto de burlas por semejante mentira, perdón MENTIRA, con mayúsculas y todo. Pero eso lo digo con la mirada de quien está de este lado del límite. ¿Realmente es así?
 
@@ -84,16 +87,16 @@ Se decirle a mis alumnos que estamos en tiempos donde el dicho: “lo importante
 
 La vida de Marcos ya tomó otro rumbo. Ojalá que todos los que trabajamos en educación sepamos valorar a aquellos que con sus ideas, ven más allá de los límites. Aunque se presenten irreverentes, nos incomoden o parezca que nos están vendiendo una cafetera parlante. Paremos, pensemos y les ayudemos a que la cafetera, además de todo lo que pretende hacer, pueda preparar un mate cocido como los que prepara mi vieja.
 
-   *Más extendió las alas hacia el cielo*
+*Más extendió las alas hacia el cielo*
    
-   *Y poco a poco, fue ganando altura*
+*Y poco a poco, fue ganando altura*
 
  *Y los demás, quedaron en el suelo*
 
  *Guardando la cordura*
-> 
-> ……….
-> 
+
+ ……….
+
 *Acaba aquí la historia del idiota
 
 *Que por el aire, como el aire libre*
@@ -101,7 +104,7 @@ La vida de Marcos ya tomó otro rumbo. Ojalá que todos los que trabajamos en ed
 *Quiso volar igual que las gaviotas*
 
 *Pero eso es imposible, ¿o no?*
-> 
+ 
 
 
 
