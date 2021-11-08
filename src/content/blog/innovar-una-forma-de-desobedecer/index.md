@@ -16,6 +16,10 @@ El periodista, tengo la sensación, parecía no entender mucho lo que hacía la 
 
 La cuestión es que, como sigue ocurriendo hoy, si lo dice la tele o la radio (podemos agregar redes sociales) se asume como verdadero, como real. Todo sucedió muy rápido. En Las Varillas lo recibieron como ciudadano ilustre, parado en el camión de bomberos; días después lo recibió el Gobernador de la Provincia, en ese momento José Manuel De La Sota.
 
+
+![De la Sota y Castagno](../../../../images/castagno.jpg)
+
+
 Todos los ojos estaban puestos sobre “el estudiante del siglo”, obviamente no sobre el resto de los estudiantes. Y menos aún sobre los que estudiaban lo mismo y no habían inventado nada.
 
 Todavía recuerdo diálogos, que en tono de broma o no, se daban por esos días en distintos ámbitos:
@@ -77,6 +81,7 @@ Las utopías mueven al mundo. Hoy miles de personas trabajan para que algún dí
 ¿Cuál fue el error de la sociedad en ese momento? Haberse comido el buzón de la mentira, o no haber visto que su idea corría un límite.
 
 Se decirle a mis alumnos que estamos en tiempos donde el dicho: “lo importante no es saber, sino tener el teléfono de quien sabe” cobra una renovada importancia. No menosprecio en nada el conocimiento, déjenme explicar la idea. Puedo tener una persona que sepa hacer diseños mecánicos, otra que haga electrónica y una tercera que programe Apps. Pero si no existe alguien que tenga una buena idea y los convoque para trabajar en un proyecto, se quedarán ahí. Esa o ese que tiene la idea, el loco que vé que un límite puede ser corrido, el que desobedece las normas, ese, es el más importante. Será quien convoque y contagie al resto.
+
 La vida de Marcos ya tomó otro rumbo. Ojalá que todos los que trabajamos en educación sepamos valorar a aquellos que con sus ideas, ven más allá de los límites. Aunque se presenten irreverentes, nos incomoden o parezca que nos están vendiendo una cafetera parlante. Paremos, pensemos y les ayudemos a que la cafetera, además de todo lo que pretende hacer, pueda preparar un mate cocido como los que prepara mi vieja.
 
 > Más extendió las alas hacia el cielo
