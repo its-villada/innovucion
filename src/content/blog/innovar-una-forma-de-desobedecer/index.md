@@ -41,7 +41,7 @@ Más de 20 años después, mi visión de esta historia es distinta. ¿Será que 
 Hace un tiempo leí en un libro de Filosofía y en él estaban las razones de mi cambio. Esta lectura y tantas otras me habían cambiado, pero fruto de un estímulo externo a mí. Algo me corrió de mi foco anterior y ese movimiento me daba esta nueva perspectiva. Cito el párrafo del libro:
 
 
-> Normalizar viene de normal y normal viene de norma; y si hay una norma, alguien la puso. Y si alguien la impuso, no hay nada normal, sino normalizado. O sea, construido como normal. Y como anormal, porque para que haya lo normal tiene que haber lo anómalo. Primera apreciación: toda normalidad supone una serie de ordenamientos que lejos está de cualquier estado natural de las cosas. De última y no es poco, normal es lo que sigue la norma. Y anormal, lo que la transgrede, la viola o bien lo que queda afuera, lo que no está contenido, incluido, aceptado, lo que no pertenece.
+*Normalizar viene de normal y normal viene de norma; y si hay una norma, alguien la puso. Y si alguien la impuso, no hay nada normal, sino normalizado. O sea, construido como normal. Y como anormal, porque para que haya lo normal tiene que haber lo anómalo. Primera apreciación: toda normalidad supone una serie de ordenamientos que lejos está de cualquier estado natural de las cosas. De última y no es poco, normal es lo que sigue la norma. Y anormal, lo que la transgrede, la viola o bien lo que queda afuera, lo que no está contenido, incluido, aceptado, lo que no pertenece.*
 >
 > *(Filosofía en 11 frases - Darío Sztajnszrajber).*
 >
@@ -84,15 +84,27 @@ Se decirle a mis alumnos que estamos en tiempos donde el dicho: “lo importante
 
 La vida de Marcos ya tomó otro rumbo. Ojalá que todos los que trabajamos en educación sepamos valorar a aquellos que con sus ideas, ven más allá de los límites. Aunque se presenten irreverentes, nos incomoden o parezca que nos están vendiendo una cafetera parlante. Paremos, pensemos y les ayudemos a que la cafetera, además de todo lo que pretende hacer, pueda preparar un mate cocido como los que prepara mi vieja.
 
-> Más extendió las alas hacia el cielo
-> Y poco a poco, fue ganando altura
-> Y los demás, quedaron en el suelo
-> Guardando la cordura
+   *Más extendió las alas hacia el cielo*
+   
+   *Y poco a poco, fue ganando altura*
+
+ *Y los demás, quedaron en el suelo*
+
+ *Guardando la cordura*
 > 
 > ……….
 > 
-> Acaba aquí la historia del idiota
-> Que por el aire, como el aire libre
-> Quiso volar igual que las gaviotas
-> Pero eso es imposible, ¿o no?
+*Acaba aquí la historia del idiota
+
+*Que por el aire, como el aire libre*
+
+*Quiso volar igual que las gaviotas*
+
+*Pero eso es imposible, ¿o no?*
 > 
+
+
+
+
+
+
